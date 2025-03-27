@@ -48,3 +48,4 @@ it is kept up to date.
 |Rudraksh Karpe         |                 |                                                     | [rudrakshkarpe](https://github.com/rudrakshkarpe)        | [rudrakshkarpe](https://gitlab.com/rudrakshkarpe) |
 | Mike Yeung            |                 |                                                     | [yysun316](https://github.com/yysun316)                  | N/A |
 | Kay Yan               | DaoCloud        | Kubespray, Nerdctl                                  | [yankay](https://github.com/yankay)                      | N/A |
+| Dharmik Thakkar       |                 |                                                     | [thakkardharmik] (https://github.com/thakkardharmik)      |N/A|
